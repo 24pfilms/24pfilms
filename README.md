@@ -32,14 +32,11 @@
   <img src="https://img.shields.io/github/followers/24pfilms?label=Followers&style=for-the-badge&color=555555&labelColor=0d1117" alt="followers" />
 </p>
 
-<!-- ===================== CONTRIBUTION GRAPH (featured high) =====================
-     Waiting on assets/contribution-graph.png (Taylor's real graph screenshot).
-     Uncomment the block below once that file is added.
+<!-- ===================== CONTRIBUTION GRAPH (featured high) ===================== -->
 <h3 align="center">📈 &nbsp;Contribution activity — 3,558 in the last year</h3>
 <p align="center">
   <img src="assets/contribution-graph.png" alt="24pfilms contribution graph — 3,558 contributions in the last year" width="92%" />
 </p>
-============================================================================= -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
