@@ -8,8 +8,9 @@
 
 <!-- ============================= HERO ============================= -->
 <p align="center">
-  <img src="assets/TaylorGithubProfile.jpg" alt="Taylor Moore" width="300" />
+  <img src="assets/master.png" alt="OrcaCoder — AI coding agent built by Taylor Moore" width="100%" />
 </p>
+<p align="center"><sub>☝️ <b>OrcaCoder</b> — my AI coding agent &amp; “Pod Command Deck”</sub></p>
 
 <h1 align="center">Taylor&nbsp;Moore</h1>
 
