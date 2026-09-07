@@ -8,7 +8,7 @@
 
 <!-- ============================= HERO ============================= -->
 <p align="center">
-  <img src="assets/master.png" alt="OrcaCoder — AI coding agent built by Taylor Moore" width="100%" />
+  <img src="https://raw.githubusercontent.com/24pfilms/24pfilms/main/assets/master.png" alt="OrcaCoder — AI coding agent built by Taylor Moore" width="100%" />
 </p>
 <p align="center"><sub>☝️ <b>OrcaCoder</b> — my AI coding agent &amp; “Pod Command Deck”</sub></p>
 
