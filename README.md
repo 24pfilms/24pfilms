@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1200&color=9A9A9A&center=true&vCenter=true&width=620&lines=AI+Film-Tools+Builder;Photographer+%26+Filmmaker;Founder+%40+SquareCircle+Labs;I+build+the+tools+I+wish+I+had+on+set." alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=9A9A9A&center=true&vCenter=true&width=620&lines=AI+Film-Tools+Builder;Photographer+%26+Filmmaker;Founder+%40+SquareCircle+Labs;I+build+the+tools+I+wish+I+had+on+set." alt="What I do" />
   </a>
 </p>
 
