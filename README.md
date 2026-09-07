@@ -2,7 +2,7 @@
   ┌────────────────────────────────────────────────────────────────┐
   │  GitHub Profile README · 24pfilms (Taylor Moore)               │
   │  Lives at the PUBLIC repo named exactly "24pfilms".            │
-  │  Cinematic monochrome theme. Placeholders marked <!-- TODO -->  │
+  │  Cinematic monochrome theme. Placeholders marked TODO.          │
   └────────────────────────────────────────────────────────────────┘
 -->
 
